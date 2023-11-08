@@ -261,8 +261,7 @@ Garbage Collection là quá trình tự động lấy lại bộ nhớ không s�
 Nó được thực hiện tự động, Vì vậy, java cung cấp quản lý bộ nhớ tốt hơn.*
 
 - Ưu điểm của Garbage Collection:
-    - Nó làm cho bộ nhớ java hiệu quả vì bộ thu gom rác loại bỏ các đối tượng không được tham chiếu khỏi bộ nhớ heap.
-    - Nó được tự động thực hiện bởi người thu gom rác (một phần của JVM) vì vậy chúng tôi không cần phải nỗ lực thêm.
+    Trong C++, sau khi khởi tạo một Object, các lập trình viên phải chủ động xóa vùng nhớ của Object bằng câu lệnh delete, nếu như không thực hiện việc này thì sẽ dẫn đến rò rỉ vùng nhớ. Với Garbage Collectors, lập trình viên Java sẽ không cần quan tâm đến việc xóa các Object mỗi lần ra khỏi hàm hay không còn dùng nữa. 
 - Các Bước:
   - B1: Vô hiệu hóa đối tượng( Gán giá trị null, Gán đối tượng đến một tham chiếu khác, Bởi 1 đối tượng annonymous)
   - B2: 
