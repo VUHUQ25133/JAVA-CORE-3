@@ -1,6 +1,6 @@
 #BUỔI 8 - CẤU TRÚC DỮ LIỆU TRONG JAVA
 ## 1. Cấu trúc dữ liệu
-*Thuật ngữ cấu trúc dữ liệu đề cập đến một tập hợp dữ liệu với các hoạt động và hành vi hoặc thuộc tính được xác định rõ ràng. Cấu trúc dữ liệu là một cách duy nhất để lưu trữ hoặc tổ chức dữ liệu trong bộ nhớ máy tính để chúng ta có thể sử dụng nó một cách hiệu quả. Chúng tôi chủ yếu sử dụng Cấu trúc dữ liệu trong hầu hết mọi lĩnh vực của Khoa học máy tính, đó là Đồ họa máy tính, Hệ điều hành, Trí tuệ nhân tạo, Thiết kế trình biên dịch và nhiều lĩnh vực khác.*
+*Thuật ngữ cấu trúc dữ liệu đề cập đến một tập hợp dữ liệu với các hoạt động và hành vi hoặc thuộc tính được xác định rõ ràng. Cấu trúc dữ liệu là một cách duy nhất để lưu trữ hoặc tổ chức dữ liệu trong bộ nhớ máy tính để chúng ta có thể sử dụng nó một cách hiệu quả. Cấu trúc dữ liệu trong hầu hết mọi lĩnh vực của Khoa học máy tính, đó là Đồ họa máy tính, Hệ điều hành, Trí tuệ nhân tạo, Thiết kế trình biên dịch và nhiều lĩnh vực khác.*
 ### Sự cần thiết của cấu trúc dữ liệu trong Java
 Khi lượng dữ liệu phát triển nhanh chóng, các ứng dụng trở nên phức tạp hơn và có thể phát sinh các vấn đề sau:
 
